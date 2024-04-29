@@ -6,7 +6,7 @@ Welcome to the Scroll Genesis project! Scroll Genesis is a decentralized crowdfu
 
 ## SITE LINKS
 - [Website](https://scrollgenesis.netlify.app/)
-- [Video Presentation]()
+- [Video Presentation](https://youtu.be/PdZ2EW0R4YQ)
 
 ## Table of Contents
 - [Introduction](#introduction)
